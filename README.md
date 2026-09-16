@@ -1,35 +1,20 @@
-# Hi, I'm Aditya 👋
+### Hi, I'm [Aditya Biswal] 👋
 
-### Developer | Open Source Enthusiast | Problem Solver
+I'm a web developer learning to build clean, functional interfaces and full-stack apps.
 
-I build useful and reliable software with a focus on clean code, good user experiences, and continuous learning.
+- 🔭 Currently learning: HTML, CSS, JavaScript (and [React/Node/whatever you're on])
+- 🌱 Working on: my first few projects — check back soon
+- 💬 Ask me about: front-end basics, debugging weird CSS
+- 📫 Reach me: [adityabiswal063@gmail.com]
 
-## 🚀 About Me
+---
 
-- 🔭 I’m currently working on [your current project]
-- 🌱 I’m currently learning [technologies]
-- 💬 Ask me about [your skills]
-- 📫 Contact me: [your email]
-- 🌐 Portfolio: [your website link]
+#### Tech I'm learning
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🛠️ Technologies
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📌 Featured Projects
-
-- **[Project One](link)** — Short explanation of what it does
-- **[Project Two](link)** — Short explanation of what it does
-- **[Project Three](link)** — Short explanation of what it does
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya220608&show_icons=true&theme=tokyonight)
-
-## 🤝 Connect With Me
-
-[LinkedIn](your-linkedin-url) · [Portfolio](your-portfolio-url) · [Email](mailto:your-email@example.com)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
